@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleab Mezgebe</h1>
 <h3 align="center">A passionate mobile application and web app developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleab-mezgebe&label=Profile%20views&color=0e75b6&style=flat" alt="kaleab-mezgebe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleab-mezgebe" alt="kaleab-mezgebe" /></a> </p>
 
