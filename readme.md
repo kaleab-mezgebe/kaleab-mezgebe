@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleab Mezgebe</h1>
-<h3 align="center">A passionate mobile application and web app developer from Ethiopia</h3>
+<h3 align="center">A passionate mobile application and web app developer.</h3>
 
 
 
