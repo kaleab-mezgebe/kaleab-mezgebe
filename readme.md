@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleab Mezgebe</h1>
-<h3 align="center">A passionate mobile application and web app developer, and an AI enthusiast.</h3>
+<h3 align="center">A passionate mobile and web application </h3>
 
 
 
